@@ -1,8 +1,8 @@
 ## Food Order App - Full Stack Assessment
 🚀 Live Demo
-Frontend: https://food-order-frontend.vercel.app
+Frontend: [https://food-order-frontend.vercel.app](https://food-order-app-dusky-ten.vercel.app/)
 
-Backend API: https://food-order-backend.vercel.app
+Backend API: [https://food-order-backend.vercel.app](https://food-order-backend-woad.vercel.app/api/)
 
 📋 Project Overview
 A full-stack food delivery order management system built for assessment purposes. Users can browse menu, add items to cart, place orders, and track order status in real-time.
@@ -281,4 +281,5 @@ cd backend && npm test     # Run backend tests
 
 # Deployment
 vercel --prod              # Deploy to Vercel
+
 
