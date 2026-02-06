@@ -183,7 +183,7 @@ Testing approach
 
 Challenges and solutions
 
-🤖 AI Tools Usage
+## 🤖 AI Tools Usage
 During development, I leveraged AI tools for:
 
 Code generation: Initial boilerplate and component structure
@@ -281,5 +281,6 @@ cd backend && npm test     # Run backend tests
 
 # Deployment
 vercel --prod              # Deploy to Vercel
+
 
 
